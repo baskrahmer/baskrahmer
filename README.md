@@ -7,7 +7,7 @@ Most of my open source work is in the PyTorch ecosystem, on the parts around the
 
 **[TorchMetrics](https://github.com/Lightning-AI/torchmetrics)** — *core maintainer, 2025*
 
-The model-evaluation library for PyTorch. I reviewed community pull requests and co-authored several that added new metrics, such as Hausdorff distance, cluster accuracy and DNSMOS. I also built the documentation galleries for text, multimodal and audio metrics (BERTScore, ROUGE, CLIPScore) and fixed issues in BERTScore and the classification metrics. [My pull requests →](https://github.com/Lightning-AI/torchmetrics/pulls?q=is%3Apr+author%3Abaskrahmer)
+The evaluation library for PyTorch. I reviewed community pull requests and co-authored several that added new metrics, such as Hausdorff distance, cluster accuracy and DNSMOS. I also built the documentation galleries for text, multimodal and audio metrics (BERTScore, ROUGE, CLIPScore) and fixed issues in BERTScore and the classification metrics. [My pull requests →](https://github.com/Lightning-AI/torchmetrics/pulls?q=is%3Apr+author%3Abaskrahmer)
 
 **[PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning)** — *contributor, 2023 and 2025*
 
@@ -23,7 +23,7 @@ A neural data augmentation library for fairness in NLP, building on [Qian et al.
 
 **[LEAF](https://github.com/baskrahmer/LEAF)** — *author, 2024*
 
-Multilingual models that predict the environmental impact of a food product from its name alone, in over 50 languages. The repository has the code, data and models behind my [ACL ClimateNLP 2024 paper](https://aclanthology.org/2024.climatenlp-1.10/), which was selected for an oral presentation.
+Multilingual models that predict the environmental impact of a food product from its name alone, in over 50 languages. The repository has the code, data and models behind my [ACL ClimateNLP 2024 paper](https://aclanthology.org/2024.climatenlp-1.10/).
 
 ## Research
 
